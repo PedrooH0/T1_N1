@@ -1,4 +1,4 @@
-package br.edu.princiapl;
+package br.edu.principal;
 import java.util.Scanner;
 
 public class Principal {
