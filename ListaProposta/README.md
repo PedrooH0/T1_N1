@@ -1,9 +1,14 @@
-![ezgif com-crop (1)](https://user-images.githubusercontent.com/125037138/224166045-f6ca9177-da70-4b27-88c9-ba862a437f6d.jpg)
+![ezgif com-crop](https://user-images.githubusercontent.com/125037138/224165063-0c500cd0-c902-426c-987e-c99c45b1a779.jpg)
 
-| Questão  | Enunciado |
-| ------------- | ------------- |
-| `15`  | João recebeu seu salário e precisa pagar duas contas que estão atrasadas. Como as contas estão atrasadas, João terá de pagar multa de 2% sobre cada conta. Faça um programa que calcule e mostre quanto restará do salário do João.  |
-| `17`  | Faça um programa que receba o raio, calcule e mostre: a) o comprimento de uma esfera, sabe-se que C = 2πR; b) a área de uma esfera, sabe-se que A = πR²; c) o volume de uma esfera, sabe-se que V = 3/4πR³. |
-| `20`  | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e a distância que a escada está da parede. Calcule e mostre a medida da escada para que se possa alcançar a ponta da escada. |
-| `21`  | Faça um programa que receba o número de horas trabalhadas, o valor do salário mínimo e o número de horas extras trabalhadas. Calcule e mostre o salário a receber seguindo as regras a seguir: a) a hora trabalhada vale 1/8 do salário mínimo;  b) a hora extra vale 1/4 do salário mínimo;  c) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada;  d) a quantia a receber pelas horas extras equivale ao número de horas extras trabalhadas multiplicado pelo valor da hora extra;  e) o salário a receber equivale ao salário bruto mais a quantia a receber pelas horas extras.  |
-| `24`| Faça um programa que receba a quantidade de dinheiro em reais que uma pessoa que vai viajar possui, Essa pessoa vai passar por vários países e precisa converter seu dinheiro em dólares, marco alemão e libra esterlina. Sabe-se que a cotação do dólar é de R$ 1,80, do marco alemão é de R$ 2,00 e da libra esterlina é de R$ 1,57. O programas deve fazer as conversões e mostrá-las.  |
+| Questões | Enunciado |
+| ------------- | -------------- |
+|  `01`  | Façaum programa que receba quatro números inteiros, calcule e mostre a soma desses números  |
+| `04`  | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.  |
+| `07`  | Faça um programa que receba o salário-base de um funcionário, calcule e mostre o seu salário a receber, sabendo-se que esse funcionário tem gratificação de R$ 50.00 e paga imposto de 10% sobre o salário-base |
+| `09`  | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2  |
+| `10`  | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π R²  |
+| `12`|Faço um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro  |
+|  `13`  | Sabe-se que: 1 pé = 12 polegadas; 1 jarda= 3 pés; 1 milha = 1.760 jardas. Faça um programa que receba uma medida em pés, faça as conversões aseguir e mostre os resultados. a)polegadas; b) jardas; c) milhas |
+|  `18`  | Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade de ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará de ração no saco após cinco dias |  
+|  `19`  | Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário |        
+|  `25`  | Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado |
